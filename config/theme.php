@@ -27,7 +27,7 @@ return [
 
             // JavaScript
             //"javascripts" => [],
-            "javascripts" => ["js/responsive-menu.js"],
+            "javascripts" => ["js/responsive-menu.js","../theme/js/less.min.js"],
 
         ],
     ],
